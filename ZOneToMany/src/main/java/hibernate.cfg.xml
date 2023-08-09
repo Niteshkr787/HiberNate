@@ -17,7 +17,7 @@
 
 <property name="hbm2ddl.auto">create</property>
  
- <mapping class="com.Asso.ZOneToMany.Customer"/>
+ <mapping class="com.Asso.ZOneToMany.Customer"/><mapping/>
  <mapping class="com.Asso.ZOneToMany.Order"/>
 
 </session-factory>  
